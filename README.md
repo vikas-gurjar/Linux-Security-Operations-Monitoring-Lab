@@ -40,8 +40,8 @@ I am **Vikas Gurjar**, a Computer Science and Engineering student from the 2023â
 
 My existing background includes Linux, Unix, C, Python, Assembly, Shell Scripting, Computer Networks, Operating Systems, Wireshark, Nmap, Burp Suite, pwn.college web and binary exploitation, and a custom Unix shell built in C using `fork()`, `execvp()`, `waitpid()`, pipes, I/O redirection, `dup2()`, and command history.
 
-* GitHub: `[VERIFY: Add GitHub profile URL]`
-* LinkedIn: `[VERIFY: Add LinkedIn profile URL]`
+* GitHub: `[https://github.com/vikas-gurjar]`
+* LinkedIn: `[https://www.linkedin.com/in/vikas-gurjar18]`
 
 ---
 
@@ -78,8 +78,8 @@ flowchart TD
 
 | Machine             | Role                        |      IP address |
 | ------------------- | --------------------------- | --------------: |
-| Kali Linux `Bairan` | Attacker / security testing | `192.168.56.10` |
-| Ubuntu Server `Lab` | Target Linux server         | `192.168.56.20` |
+| Kali Linux          | Attacker / security testing | `192.168.56.10` |
+| Ubuntu Server       | Target Linux server         | `192.168.56.20` |
 | Wazuh VM            | SIEM / monitoring server    | `192.168.56.30` |
 
 ### Additional Wazuh dashboard access network
@@ -401,7 +401,7 @@ The Apache webpage was edited at:
 sudo nano /var/www/html/index.html
 ```
 
-`[VERIFY: Add the final HTML content or screenshot of the custom webpage.]`
+`[It was a dummy webpage]`
 
 ---
 
@@ -752,9 +752,6 @@ The capture was saved as:
 ```text
 soc-lab-capture.pcapng
 ```
-
-`[VERIFY: Confirm the final capture file location and add the file to the repository.]`
-
 ---
 
 ## Phase 10 â€” Sigma Detection Engineering
@@ -854,8 +851,8 @@ sigma check ~/soc-evidence/sigma-rules/ssh-brute-force.yml
 
 ### Sigma resources
 
-* SigmaHQ: `[VERIFY: Add exact SigmaHQ URL]`
-* SOC Prime: `[VERIFY: Add exact SOC Prime URL]`
+* SigmaHQ: [https://sigmahq.io/](https://sigmahq.io/)
+* SOC Prime: [https://sigma.analyst1.com/](https://sigma.analyst1.com/)
 
 ---
 
@@ -884,9 +881,6 @@ curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh
 ```bash
 sudo bash ./wazuh-install.sh -a
 ```
-
-`[VERIFY: Confirm the exact Wazuh installer version and final installation output.]`
-
 ### Installation troubleshooting
 
 The Wazuh Manager initially failed to start because of a timeout.
@@ -956,7 +950,6 @@ The dashboard was opened from Windows Chrome using:
 https://192.168.57.10
 ```
 
-`[VERIFY: Confirm the final dashboard URL.]`
 
 The generated admin credentials were recovered from:
 
