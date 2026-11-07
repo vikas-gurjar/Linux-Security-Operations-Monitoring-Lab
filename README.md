@@ -1687,12 +1687,12 @@ mini-soc-attack-lab/
 
 # 14. Resources
 
-* SigmaHQ: `[VERIFY: Add official SigmaHQ URL]`
-* SOC Prime: `[VERIFY: Add official SOC Prime URL]`
-* pwn.college: `[VERIFY: Add pwn.college URL]`
+* SigmaHQ: `[https://sigmahq.io/]`
+* SOC Prime: `[https://socprime.com/]`
+* pwn.college: `[https://pwn.college/]`
 * Wazuh documentation: https://documentation.wazuh.com/current/quickstart.html
-* Wireshark: `[VERIFY: Add official Wireshark URL]`
-* Nmap: `[VERIFY: Add official Nmap URL]`
+* Wireshark: `[https://www.wireshark.org]`
+* Nmap: `[https://nmap.org/]`
 
 ---
 
